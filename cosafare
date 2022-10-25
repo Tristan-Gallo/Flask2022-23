@@ -1,0 +1,7 @@
+#realizzare un sito web che permetta all'utente du visualizzare una serie di informazioni riguardanti la società bike store. la home page del sito deve permettere all'utente di scegliere una fra le seguenti tre opzioni:
+
+Numero di prodotti per ogni categoria sia in formato tabellato sia sotto forma di grafico a barre verticale
+il numero di ordini per ogni store sia in formato tabellato sia sotto forma di grafico a barre orizzontale
+il numero di prodotti per ogni brand sia in formato tabellato sia sotto forma di grafico a barre a torta
+L'elenco dei prodotti che cominciano cuna una certa stringa di caratteri.
+una volta effettuata la scelta l'utente clicca su un bottone che fornisce le informazioni richieste. utilizzare bootstrap per l'interfaccia grafica
